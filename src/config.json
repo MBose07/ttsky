@@ -33,8 +33,8 @@
 
   "//": "Configuration docs: https://librelane.readthedocs.io/en/latest/reference/configuration.html",
   
-  "SYNTH_MAX_FANOUT": 10,
-  "PL_RESIZER_MAX_FANOUT": 10,
+  "SYNTH_MAX_FANOUT": 6,
+  "PL_RESIZER_MAX_FANOUT": 6,
   "PL_RESIZER_BUFFER_INPUT_PORTS": true,
   "PL_RESIZER_DESIGN_OPTIMIZATIONS": true ,
 
