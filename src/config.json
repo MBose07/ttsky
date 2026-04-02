@@ -38,7 +38,7 @@
   "PL_RESIZER_BUFFER_INPUT_PORTS": true,
   "PL_RESIZER_DESIGN_OPTIMIZATIONS": true ,
   "PL_RESIZER_MAX_SLEW_MARGIN": 10,
-  "PL_RESIZER_MAX_CAP_MARGIN": 10
+  "PL_RESIZER_MAX_CAP_MARGIN": 10 ,
 
 
   "//": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
