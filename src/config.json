@@ -35,7 +35,7 @@
   
   "SYNTH_MAX_FANOUT": 6,
   "PL_RESIZER_MAX_FANOUT": 6,
-  "PL_RESIZER_DESIGN_OPTIMIZATIONS": true
+  "PL_RESIZER_DESIGN_OPTIMIZATIONS": true ,
 
 
   "//": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
